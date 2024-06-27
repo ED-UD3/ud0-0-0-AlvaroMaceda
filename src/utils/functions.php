@@ -7,4 +7,8 @@
     function printMessage{
         echo "Hello, world";
     }
+
+    function suma(a, b){
+        return a + b + 1;
+    }
 ?>
